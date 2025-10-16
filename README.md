@@ -34,3 +34,5 @@ A program that visualizes and solves randomly generated mazes using the A* pathf
 
 > “Clean, maintainable code is built one review at a time.”
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atomic01&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atomic01&layout=compact&theme=github_dark)
