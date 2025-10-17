@@ -41,7 +41,7 @@ Includes multilingual support, class scheduling, and a modern responsive layout 
 
 ## 🔗 Connect
 
-- **LinkedIn:** [Ante Tomicic](https://www.linkedin.com/in/ante-tomicic)  
+- **LinkedIn:** [Ante Tomicic](https://www.linkedin.com/in/antetomicic)  
 - **Email:** ante.tomicic.007@gmail.com  
 
 ---
