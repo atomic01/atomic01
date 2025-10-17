@@ -32,10 +32,17 @@ Includes multilingual support, class scheduling, and a modern responsive layout 
 ---
 
 ## 💡 About Me
+Over time, I've come to believe that good engineering is less about writing code and more about designing clarity.  
+I approach every project as a conversation with the next developer — even if that developer is future me.  
 
-- Strong interest in **AI-driven automation**, **control systems**, and **backend optimization**  
-- Enjoy solving complex engineering challenges through structured, maintainable design  
-- Believe in continuous improvement and “**clean, maintainable code is built one review at a time**.”
+### 🧭 I Believe
+- Clean code is a form of communication, not decoration.  
+- Architecture should reduce future pain, not add current complexity.  
+- Automation is how engineers show respect for their own time.  
+- Readability is the first optimization.  
+- The best systems are boring in production and elegant in design.  
+- Every refactor is a chance to refine thought, not just fix mistakes.  
+- Learning is continuous — each failure teaches as much as each success.  
 
 ---
 
