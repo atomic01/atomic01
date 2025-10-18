@@ -37,6 +37,16 @@ My focus is on **clarity, maintainability, simplicity, and automation** — beca
 ![Red%20Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white&style=flat)
 ![AIX](https://img.shields.io/badge/AIX-4B4B4B?style=flat)
 
+**Currently Learning**
+
+Expanding my technical stack to strengthen backend and full-stack versatility:  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ---
 
 ### 🚀 Featured Projects  
