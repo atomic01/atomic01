@@ -38,9 +38,6 @@ My focus is on **clarity, maintainability, simplicity, and automation** — beca
 ![AIX](https://img.shields.io/badge/AIX-4B4B4B?style=flat)
 
 **Currently Learning**
-
-Expanding my technical stack to strengthen backend and full-stack versatility:  
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
