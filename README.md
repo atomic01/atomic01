@@ -57,7 +57,7 @@ Implements DQN-based agents in the **CARLA simulator**, investigating how interm
 A C-based visualization tool for solving large maze environments using the **A*** pathfinding algorithm.  
 Focuses on heuristic graph traversal, optimal route computation, and visualization of search-space exploration.
 
-#### 🏋️‍♂️ [Gym Website – 17.Fitness](https://github.com/atomic01/17fitness)
+#### 🏋️‍♂️ [Gym Website – 17.Fitness](https://github.com/atomic01/17.fitness)
 A **WordPress-based informational site** for a local gym, designed with **Blocksy** and **Elementor**.  
 Includes multilingual support, class scheduling, and a modern responsive layout for desktop and mobile visitors.
 
