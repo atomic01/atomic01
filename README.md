@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ante Tomicic
 
 **Software Engineer** with 3+ years of experience in backend and automation development — specializing in **C++**, **Python**, and **CI/CD systems**.  
-I’ve worked on large-scale enterprise software, building backend components, automation frameworks, and developer tools.  
-My focus is on **clarity, maintainability, and automation** — because clean systems scale better, and so do teams.
+I’ve worked on large-scale enterprise software, building backend components, automation frameworks, and developer tools. I’m also expanding my skill set into **Java**, **React**, **C#**, and **.NET**, with a growing interest in full-stack development and modern web architectures.
+My focus is on **clarity, maintainability, simplicity, and automation** — because clean systems scale better, and so do teams.
 
 ---
 
